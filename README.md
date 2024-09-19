@@ -8,3 +8,8 @@ EStilização da Aparencial do PortalAZURE no meu caso escolhi versão modo escu
 
 Novo LAB, Comentando sobre os beneficios da Computação em nuvem, contando sobre ALTA DISPONIBILIDADE e suas diferenças de SLA, PREVINIBILIDADE, ESCALABILIDADE, ELASTICIDADE, CONFIABILIDADE, SEGURANÇA, GOVERNANÇA e GERENCIABILIDADE.
 São benecifios nas quais podem trazer facilidade em gerenciamento dos recusos alocados dentro do portal AZ.
+
+
+Lab De tipos de serviço sde NUvem foi abordado neste módulo dentro do laboratorio, ENtendo sobre IaaS, PaaS, SaaS.
+Esses serviço são iguais para todas as provedoras de computação em nuvem, porém, cada provedora se refera um serviço com nome diferente.
+Informando que cada serviço existe uma reponsabilidade compartilhada diferentre, um serviço demdando mais responsabilidade do cliente do que outro.
