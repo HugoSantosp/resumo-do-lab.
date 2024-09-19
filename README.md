@@ -13,3 +13,6 @@ São benecifios nas quais podem trazer facilidade em gerenciamento dos recusos a
 Lab De tipos de serviço sde NUvem foi abordado neste módulo dentro do laboratorio, ENtendo sobre IaaS, PaaS, SaaS.
 Esses serviço são iguais para todas as provedoras de computação em nuvem, porém, cada provedora se refera um serviço com nome diferente.
 Informando que cada serviço existe uma reponsabilidade compartilhada diferentre, um serviço demdando mais responsabilidade do cliente do que outro.
+
+
+Novo Lab com assunto abordado sobre grupos de recusos, zonas ou grupos de disponibilidades, regioes, regiões soberanas do AZURE e grupos de gerenciamentos
